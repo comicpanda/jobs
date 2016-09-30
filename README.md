@@ -15,3 +15,7 @@
 - Java / HTML / CSS(+ less 경험 우대) / Javascript(+ jQuery 경험 우대)
 - Spring framework/ Hibernate(or JPA)에 대한 1~2년 경험 우대
 - MySQL 경험, git/OS X(or Linux) 경험 우대
+
+### 연락주세요.
+
+[dev@tapasmedia.co](mailto:dev@tapasmedia.co)
